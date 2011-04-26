@@ -1,0 +1,196 @@
+    1  tty
+    2  sudo apt-get update
+    3  sudo apt-get install build-essential git-core curl
+    4  history
+    5  bash << (curl http://rvm.beginrescueend.com/releases/rvm-install-head)
+    6  bash < <( curl http://rvm.beginrescueend.com/releases/rvm-install-head )
+    7  bash <<( curl http://rvm.beginrescueend.com/releases/rvm-install-head )
+    8  sudo apt-get install build-essential git-core curl
+    9  bash <<( curl http://rvm.beginrescueend.com/releases/rvm-install-head )
+   10  bash << ( curl http://rvm.beginrescueend.com/releases/rvm-install-head )
+   11  bash <<(curl http://rvm.beginrescueend.com/releases/rvm-install-head)
+   12  bash < <(curl -s https://rvm.beginrescueend.com/install/rvm)
+   13  clear
+   14  rvm
+   15  rvm update
+   16  . ~/.bashrc
+   17  rvm notes
+   18  echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"' >> ~/.bashrc 
+   19  . ~/.bashrc
+   20  rvm notes
+   21  sudo aptitude install build-essential bison openssl libreadline6 libreadline6-dev curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-0 libsqlite3-dev sqlite3 libxml2-dev libxslt-dev autoconf
+   22  sudo apt-get install build-essential bison openssl libreadline6 libreadline6-dev curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-0 libsqlite3-dev sqlite3 libxml2-dev libxslt-dev autoconf
+   23  sudo aptitude install build-essential bison openssl libreadline6 libreadline6-dev curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-0 libsqlite3-dev sqlite3 libxml2-dev libxslt-dev autoconf
+   24  rvm install 1.9.2
+   25  history
+   26  rvm -ver
+   27  rvm version
+   28  ruby -v
+   29  rvm use 1.9.2
+   30  ruby 0v
+   31  ruby -v
+   32  rvm --default use 1.9.2
+   33  gem install rails
+   34  sudo mkdir /mnt/study
+   35  sudo mount -t vboxsf Study /mnt/study
+   36  sudo mount vboxsf -t Study /mnt/study
+   37  sudo mount vboxsf -t study /mnt/study
+   38  sudo mount vboxsf -w Study /mnt/study
+   39  sudo mount vboxsf -t Study /mnt/study
+   40  sudo mount vboxsf -t study /mnt/study
+   41  sudo mount vboxsf study /mnt/study
+   42  sudo mount vboxsf -w study /mnt/study
+   43  sudo mount vboxsf -t study /mnt/study
+   44  history
+   45  sudo mount vboxsf -t study /mnt/study
+   46  sudo mount vboxsf -t Study /mnt/study
+   47  sudo mount -t vboxsf  Study /mnt/study
+   48  sudo mount  vboxsf  Study /mnt/study
+   49  sudo mount -t vboxsf  Study /mnt/study
+   50  sudo mount -t vboxsf Study /mnt/study
+   51  clear
+   52  sudo mount -t vboxsf Study /mnt/study
+   53  clear
+   54  sudo mount.vboxsf Study /mnt/Study
+   55  sudo mount vboxsf Study /mnt/Study
+   56  sudo mount -t vboxsf Study /mnt/Study
+   57  clera
+   58  cellarclaer
+   59  clear
+   60  sudo mount -t vboxsf Study /mnt/study
+   61  cd /mtn
+   62  cd /mnt
+   63  ls
+   64  sudo mount -t vboxsf Study study
+   65  sudo mount.vboxsf Study study
+   66  mount -t vboxsf Study /mnt/study
+   67  sudo mount -t vboxsf Study /mnt/study
+   68  ruby -v
+   69  rail 0v
+   70  rail -v
+   71  rail -ver
+   72  ruby -v
+   73  history
+   74  rail
+   75  rvm -ver
+   76  rvm -v
+   77  ruby -v
+   78  clear
+   79  sdsd
+   80  clera
+   81  clear
+   82  vim
+   83  vim test
+   84  sudo apt-get install gvim
+   85  sudo aptitude install  vim-gnome
+   86  gvim tes
+   87  clear
+   88  vim test
+   89  ls
+   90  mkdir CS441
+   91  cd CS441; mkdir proj4
+   92  ls
+   93  pwd
+   94  cd..
+   95  cd .
+   96  cd ..
+   97  pwd
+   98  mkdir rails_project
+   99  ls
+  100  man rails
+  101  rails
+  102  rvm
+  103  rvm --usage
+  104  rvm usage
+  105  rvm --create
+  106  rvm list known
+  107  rvm --create use 1.9.2@rails_projecty
+  108  rvm --create use 1.9.2@rails_project
+  109  rvm --help
+  110  clear
+  111  rvm --help
+  112  clear
+  113  which gem
+  114  rails -v
+  115  gem install rails
+  116  pwd
+  117  pwd
+  118  ls
+  119  man ren
+  120  man rename
+  121  mv
+  122  ,am ,v
+  123  man mc
+  124  man mv
+  125  rename
+  126  man rename
+  127  ls
+  128  mv rails_project rails_projects
+  129  ls
+  130  sudo mount -t vboxsf Study /mnt/study
+  131  clear
+  132  ls
+  133  cd rails_projects
+  134  ls
+  135  ls -l
+  136  clear
+  137  man ln
+  138  ln -s /mnt/study studydrive
+  139  ls
+  140  ln -s /mnt/study studydrive
+  141  man ls
+  142  man ln
+  143  ln -s /mnt/study 
+  144  man ln
+  145  clcear
+  146  clear
+  147  ls -l
+  148  rails new first_app
+  149  cd firstapp
+  150  cd first_app
+  151  man mater
+  152  lexit
+  153  exit
+  154  shutdown
+  155  shutdown --help
+  156  shutdown -P
+  157  shutdown --help
+  158  shutdown -h
+  159  shutdown -h 00
+  160  sudo shutdown -h 00
+  161  man lsmod
+  162  lsmod | grep i2c_piix4
+  163  sudo gvim /etc/modprobe.d/blacklist.conf
+  164  exit
+  165  man mount.vboxsf
+  166  mount.vboxsf
+  167  ls /etc/fstab
+  168  cd /etc
+  169  cd fstab
+  170  ls
+  171  root gvim fstab
+  172  sudo  gvim fstab
+  173  sudo  gvim rc.local
+  174  cd rails_project
+  175  ls
+  176  cd first_app
+  177  mount -t vboxsf Study /mnt/study
+  178  sud omount -t vboxsf Study /mnt/study
+  179  sudo mount -t vboxsf Study /mnt/study
+  180  man mate
+  181  vim Gemfil
+  182  vim Gemfile
+  183  exit
+  184  cd first_app
+  185  ls
+  186  history
+  187  history < test123
+  188  history > test123
+  189  vim test123
+  190  delete test123
+  191  man rm
+  192  rm test123
+  193  ls
+  194  bundle install
+  195  bundle show mail
+  196  history > test123
